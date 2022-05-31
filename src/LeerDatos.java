@@ -56,7 +56,8 @@ public class LeerDatos extends JFrame implements ActionListener {
         if (e.getSource() == nuevo) {
 
             /**
-             *
+             * aqui pinta de difrentes colores el laberinto al darle click en
+             * nuevo
              */
             paper.setColor(Color.white);
             paper.fillRect(0, 0, matriz[0].length*10-20, matriz.length*10-20);
