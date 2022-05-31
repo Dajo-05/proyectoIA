@@ -90,6 +90,9 @@ public class LeerDatos extends JFrame implements ActionListener {
 
             }
         } else if (e.getSource() == resuelve) {
+            /*
+            * aqui va el codigo que resuelve el laberinto
+            * */
 
         }
 
